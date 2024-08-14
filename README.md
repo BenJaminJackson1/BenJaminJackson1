@@ -1,5 +1,5 @@
 # 💫 About Me:
-Bachelor's Degree in Computer Science at the University of Pittsburgh
+Hello! My Name is Benjamin Jackson. I am currently a CS student at University of Pittsburgh
 
 
 ## 🌐 Socials:
@@ -13,6 +13,6 @@ Bachelor's Degree in Computer Science at the University of Pittsburgh
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BenJaminJackson1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=BenJaminJackson1&icon=0&color=5)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=BenJaminJackson1&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
