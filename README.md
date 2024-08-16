@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Hello! My Name is Benjamin Jackson. I am currently a CS student at University of Pittsburgh
 
 
