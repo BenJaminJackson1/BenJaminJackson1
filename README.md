@@ -1,5 +1,5 @@
 #  About Me:
-Hello! My Name is Benjamin Jackson. I am currently a CS student at University of Pittsburgh
+Hello! My name is Benjamin Jackson and I am currently a CS student at University of Pittsburgh
 
 
 ## 🌐 Socials:
