@@ -1,13 +1,13 @@
-#  HELLO!:
+#  HELLO!
 My name is Benjamin Jackson. 
 I am currently a CS student at the University of Pittsburgh.  
 You can reach me at benjaminjjackson92@gmail.com
 
 
-# 🌐 Socials:
+## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/benjamin-jackson-4355902b0) 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ---
