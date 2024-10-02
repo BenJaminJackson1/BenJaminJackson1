@@ -1,9 +1,9 @@
 #  About Me:
-Hello! My name is Benjamin Jackson and I am currently a CS student at University of Pittsburgh.  
+Hello! My name is Benjamin Jackson. I am currently a CS student at University of Pittsburgh.  
 You can reach me at benjaminjjackson92@gmail.com
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/benjamin-jackson-4355902b0) 
 
 # 💻 Tech Stack:
